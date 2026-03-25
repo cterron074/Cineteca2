@@ -10,6 +10,7 @@ public class App {
     public static void main(String[] args) {
         
         System.out.println("Bienvenido a KATACINEMA");
+        System.out.println("Bienvenido a KATACINEMA");
         /*
         Como de momento el cine solo tiene una sala, tendremos que tener en cuenta la siguiente
         información.
